@@ -1,4 +1,4 @@
-# Awesome-LLM-Aiops
+# Awesome-Aiops-LLM
 1. [**FSE 2025**] [A Multimodal Intelligent Change Assessment Framework for Microservice Systems Based on Large Language Models](https://dl.acm.org/doi/10.1145/3696630.3728561).
 2. [**FSE 2025**] [AIOpsLab in Action: An Open Platform for AIOps Research](https://dl.acm.org/doi/10.1145/3696630.3728619).
 3. [**CAIBDA 2024**] [An AIOps Approach to Data Cloud Based on Large Language Models](https://dl.acm.org/doi/10.1145/3690407.3690515).
@@ -11,7 +11,6 @@
 10. [**ISSTA 2025**] [LogBase: A Large-Scale Benchmark for Semantic Log Parsing](https://dl.acm.org/doi/10.1145/3728969).
 11. [**ICSE 2024**] [LogExpert: Log-based Recommended Resolutions Generation using Large Language Model](https://dl.acm.org/doi/10.1145/3639476.3639773).
 12. [**KDD 2024**] [LogParser-LLM: Advancing Efficient Log Parsing with Large Language Models](https://dl.acm.org/doi/10.1145/3637528.3671810).
-13. [**KDD 2024**] [LogParser-LLM: Advancing Efficient Log Parsing with Large Language Models](https://dl.acm.org/doi/10.1145/3637528.3671810).
-14. [**PACDMOD 2024**] [PreLog: A Pre-trained Model for Log Analytics](https://dl.acm.org/doi/10.1145/3654966).
-15. [**CSUR 2025**] [Towards Message Brokers for Generative AI: Survey, Challenges, and Opportunities](https://dl.acm.org/doi/10.1145/3742891).
-16. [**CIKM 2024**] [RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models](https://arxiv.org/pdf/2310.16340.pdf). ![](https://img.shields.io/badge/RCAgent-blue) ![](https://img.shields.io/badge/LLM_Agent-red) ![](https://img.shields.io/badge/System-green) ![](https://img.shields.io/badge/Root_Cause_Generation-brown)
+13. [**PACDMOD 2024**] [PreLog: A Pre-trained Model for Log Analytics](https://dl.acm.org/doi/10.1145/3654966).
+14. [**CSUR 2025**] [Towards Message Brokers for Generative AI: Survey, Challenges, and Opportunities](https://dl.acm.org/doi/10.1145/3742891).
+15. [**CIKM 2024**] [RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models](https://arxiv.org/pdf/2310.16340.pdf). ![](https://img.shields.io/badge/RCAgent-blue) ![](https://img.shields.io/badge/LLM_Agent-red) ![](https://img.shields.io/badge/System-green) ![](https://img.shields.io/badge/Root_Cause_Generation-brown)
