@@ -11,6 +11,8 @@
 2. [**TOSEM 2025**] [Failure Diagnosis in Microservice Systems: A Comprehensive Survey and Analysis](https://dl.acm.org/doi/10.1145/3715005).![](https://img.shields.io/badge/Failure_Diagnosis-brown)
 3. [**TOSEM 2025**] [LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision, and the Road Ahead](https://dl.acm.org/doi/10.1145/3712003).![](https://img.shields.io/badge/Multi_Agent_Systems-brown)
 4. [**CSUR 2025**] [Towards Message Brokers for Generative AI: Survey, Challenges, and Opportunities](https://dl.acm.org/doi/10.1145/3742891).![](https://img.shields.io/badge/Message_Broker-brown)
+5. [**CSUR 2025**] [A Survey of AIOps in the Era of Large Language Models](https://dl.acm.org/doi/10.1145/3746635)
+6. [**TOSEM 2025**] [Artificial Intelligence for Software Engineering: The Journey So Far and the Road Ahead](https://dl.acm.org/doi/10.1145/3719006)
 ## 2.Relvant Research ##
 
 
